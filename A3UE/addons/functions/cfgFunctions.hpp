@@ -8,6 +8,7 @@ class CfgFunctions
             class addEventListeners { postInit = 1; };
             class initServerComplete {};
             class saveLoopComplete {};
+            class serverSpawnLocation {};
         };
     };
 };
